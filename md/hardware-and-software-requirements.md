@@ -24,8 +24,8 @@ Software required for Bonita BPM Platform (Bonita BPM Engine and Bonita BPM Port
 | Red Hat Enterprise Linux |  6.5 64 bits and higher |
 | Ubuntu | 14.04 LTS 64 bits and higher |
 | **Java Virtual Machine** |
-| Oracle Java SE Runtime Environment | 8u112 (see note 1) |
-| OpenJDK | 8u112 (see note 1) |
+| Oracle Java SE Runtime Environment | 8 (see note 1) |
+| OpenJDK | 8 (see note 1) |
 | **Application Server** |
 | Apache Tomcat | 7.0.x (x > 67) |
 | Red Hat WildFly | 10.1.x |
@@ -39,10 +39,6 @@ Software required for Bonita BPM Platform (Bonita BPM Engine and Bonita BPM Port
 | Google Chrome | latest version (see note 5) |
 | Microsoft Edge | latest version |
 | Internet Explorer | 11.0.x |
-| **Mobile** |
-| Mozilla Firefox | latest version |
-| Google Chrome | latest version |
-| Apple Safari | latest version |
 
 Notes:
 1. Bonita BPM can be executed on Java 8 and above. All development artifacts (connectors, REST API extensions, etc) must be compiled with Java 8 byte code (target version).
